@@ -1,4 +1,4 @@
-# Prefix Sum Algorithm (Beginner Friendly Guide)
+# Prefix Sum Algorithm
 
 ## 📌 What is Prefix Sum?
 
