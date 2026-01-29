@@ -120,7 +120,7 @@ int rangeSum(int L, int R, vector<int>& prefix) {
 
 ---
 
-## 🔥 Where Prefix Sum is Used
+## Where Prefix Sum is Used
 
 * Range sum queries
 * Frequency queries
